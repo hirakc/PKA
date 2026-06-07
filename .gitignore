@@ -8,6 +8,14 @@ backend/data/
 frontend/node_modules/
 frontend/dist/
 
+# Editor
+.vscode/
+.idea/
+.cursor/
+.cursorrules
+.cursorignore
+.cursorignorerules
+
 # Env / secrets
 .env
 *.local
